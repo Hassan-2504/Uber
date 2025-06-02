@@ -1,8 +1,8 @@
-# Welcome to your Expo app 👋
+# Uber Clone App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is a React Native Expo app that implements an Uber-like interface with parking features.
 
-## Get started
+## Getting Started
 
 1. Install dependencies
 
@@ -13,10 +13,16 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 2. Start the app
 
    ```bash
-    npx expo start
+   npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+## Features
+
+- Real-time parking spot tracking
+- User authentication
+- Payment integration
+- Interactive maps
+- Booking management
 
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
 - [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
@@ -48,3 +54,6 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+=======
+# Uber
+>>>>>>> 1e0b8aaddf09b7ef7c011814d884d1d184939725
